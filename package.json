@@ -1,7 +1,0 @@
-{
-  "name": "Lisandro-Fernandez-Profile-Nodejs",
-  "Description": "Complete detail about work, experience and hobbies",
-  "dependencies": {
-    "express": "^4.13.0"
-  }
-}
