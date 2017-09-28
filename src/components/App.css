@@ -1,0 +1,31 @@
+.App {
+  text-align: center; 
+}
+
+.App .header {
+  background-color: #222;
+  color: white;
+}
+
+.App .header .avatar img{
+  border-radius: 50%;
+  border: 3px solid white;
+  height: 90px;
+  width: 90px;
+}
+
+.App .socialNetworks {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+
+.App .socialNetworks li{
+  margin: 0px 10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
